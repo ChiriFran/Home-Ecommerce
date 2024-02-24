@@ -1,0 +1,162 @@
+[
+    {
+        "id": "celular-01",
+        "titulo": "Iphone 10",
+        "imagen": "img/celulares/01.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 500
+    },
+    {
+        "id": "celular-02",
+        "titulo": "Iphone 11",
+        "imagen": "img/celulares/02.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 600
+    },
+    {
+        "id": "celular-03",
+        "titulo": "Iphone 12",
+        "imagen": "img/celulares/03.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 700
+    },
+    {
+        "id": "celular-04",
+        "titulo": "Iphone 13",
+        "imagen": "img/celulares/04.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-05",
+        "titulo": "Iphone 14",
+        "imagen": "img/celulares/05.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "auriculares-01",
+        "titulo": "AirPods Gen 1",
+        "imagen": "img/auriculares/01.jpeg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 200
+    },
+    {
+        "id": "auriculares-02",
+        "titulo": "AirPods Gen 2",
+        "imagen": "img/auriculares/02.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 300
+    },
+    {
+        "id": "auriculares-03",
+        "titulo": "AirPods Gen 3",
+        "imagen": "img/auriculares/03.webp",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 400
+    },
+    {
+        "id": "auriculares-04",
+        "titulo": "AirPods Gen 3 Pro",
+        "imagen": "img/auriculares/03.webp",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 500
+    },
+    {
+        "id": "computadora-01",
+        "titulo": "MacBook Air M1",
+        "imagen": "img/computadoras/01.webp",
+        "categoria": {
+            "nombre": "Computadoras",
+            "id": "computadoras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "computadora-02",
+        "titulo": "MacBook Air M2",
+        "imagen": "img/computadoras/02.jpg",
+        "categoria": {
+            "nombre": "Computadoras",
+            "id": "computadoras"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "computadora-03",
+        "titulo": "MacBook Pro",
+        "imagen": "img/computadoras/03.jpg",
+        "categoria": {
+            "nombre": "Computadoras",
+            "id": "computadoras"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "reloj-01",
+        "titulo": "Serie SE",
+        "imagen": "img/relojes/01.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 150
+    },
+    {
+        "id": "reloj-02",
+        "titulo": "Ultra",
+        "imagen": "img/relojes/02.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 200
+    },
+    {
+        "id": "reloj-03",
+        "titulo": "Serie 8",
+        "imagen": "img/relojes/03.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 350
+    },
+    {
+        "id": "reloj-04",
+        "titulo": "Serie 9",
+        "imagen": "img/relojes/03.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 400
+    }
+]
